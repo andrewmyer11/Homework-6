@@ -1,0 +1,34 @@
+<html>
+<title>First Page</title>
+<head></head>
+<body background-color: rgb(255, 255, 128);
+h1>This is my first <webpage class="h1"></webpage>
+<b>This is a bolded statement </b></br>
+<i> and this is more text</i><br>
+<u>and more things</u>
+<h2>Here are my favirite hobbies</h2> 
+    <ol>
+        <li>running</li> 
+        <li>baseball</li>
+        <li>hunting and fishing</li>
+     </ol>
+<h2>favorite restraunts</h2>
+     <ul>
+        <li<a href="https://www.crackerbarrel.com/" target="_new"></a>/li>
+        <li>Chicken & waffels</li>
+        </li>Chicken fried steak<li
+     </ul>
+
+     <img src="http://naturemappingfoundation.org/natmap/photos/mammals/elk_7196s_np.jpg" alt="This is a male elk"
+     width="300" height="300">
+
+     <p></p>
+    <select>
+            <option value="WA">Washington</option>
+            <option value="FL">Florida</option>
+            <option value="ID">Idaho</option>
+
+    </select>
+    <h3>Favorite candy?</h3>
+    <p></p>
+     <input type="sweedish fish" name="food" value="candy" 
